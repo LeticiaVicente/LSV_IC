@@ -13,4 +13,4 @@
 - Taxa_APVP_causa;
 - APVP_ADULTOS.jpeg;
 - AREA_ADULTOS.jpeg;
-- WhatsApp Image 2020-08-26 at 15.22.19.jpeg (print de um resultado)
+- WhatsApp Image 2020-08-26 at 15.22.19.jpeg (print de resultado)
