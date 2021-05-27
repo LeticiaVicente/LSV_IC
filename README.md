@@ -1,7 +1,7 @@
 # **LSV_IC**
 
 ## Gráficos da IC 2019-2021   
-### Nesse local estão contidos os gáficos produzidos durante o projeto de pesquisa, Iniciação Científica, que participei durante o curso de Enfermagem na UNIRIO
+#### Nesse local estão contidos os gráficos produzidos durante o projeto de pesquisa, Iniciação Científica, que participei durante o curso de Enfermagem na UNIRIO
 
 ## *2021* 
  - Mapas População geral
