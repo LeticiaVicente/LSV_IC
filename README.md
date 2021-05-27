@@ -1,7 +1,6 @@
 # **LSV_IC**
 
 ## Gráficos da IC 2019-2021   
-<p>
 ### Nesse local estão contidos os gáficos produzidos durante o projeto de pesquisa, Iniciação Científica, que participei durante o curso de Enfermagem na UNIRIO
 
 ## *2021* 
